@@ -17,4 +17,8 @@ DNA mutations are deleterious (disease-causing) and which are not.
 
 ### logistic regression projects 
 **Titanic: Machine Learning from Disaster** is a knowledge competition on Kaggle. Many people started practicing in machine learning with this competition, so I am. This is a binary classification problem: based on information about Titanic passengers we predict whether they survived or not. General description and data are available on [Kaggle](https://www.kaggle.com/c/titanic). Titanic dataset provides interesting opportunities for feature engineering.  
-[Nb viewer](https://nbviewer.jupyter.org/github/antonnifo/classification-octo-potato/blob/master/logistic%20regression/kernel-titanic.ipynb)
+[Nb viewer](https://nbviewer.jupyter.org/github/antonnifo/classification-octo-potato/blob/master/logistic%20regression/kernel-titanic.ipynb)  
+### KNearest Neighbour  
+classified data set from a company! They've hidden the feature column names but have given you the data and the target classes.
+We'll try to use KNN to create a model that directly predicts a class for a new data point based off of the features.
+[Nb viewer](https://nbviewer.jupyter.org/github/antonnifo/classification-octo-potato/blob/master/K-nearest%20neighbors/K%20Nearest%20Neighbors%20with%20Python.ipynb)
